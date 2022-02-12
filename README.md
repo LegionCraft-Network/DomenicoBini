@@ -13,4 +13,5 @@ Il Virus DomenicoBini.exe è il miglior clone del famoso Virus NoEscape.exe!
 - ATTENZIONE: Non avviare MAI manualmente il file "RSOD.exe" perchè potrebbe effettuare azioni non previste, pertanto potrebbe essere impossibile ricoverare il PC (Anche reinstallando Windows)
 
 Grazie per aver scelto il Virus del Maestro (DomenicoBini.exe).
----- Team di Sviluppo di DomenivoBini.exe (https://github.com/LegionCraft-Network/DomenicoBini) ----
+
+---- Team di Sviluppo di [DomenicoBini.exe](https://github.com/LegionCraft-Network/DomenicoBini) ----
