@@ -1,0 +1,9 @@
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\bin\Release\DomenicoBini.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\bin\Release\DomenicoBini.pdb
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.Form1.resources
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.Properties.Resources.resources
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.csproj.GenerateResource.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\DomenicoBini\DomenicoBini\obj\Release\DomenicoBini.pdb

@@ -1,0 +1,9 @@
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\bin\Release\RSOD.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\bin\Release\RSOD.pdb
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.Form1.resources
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.Properties.Resources.resources
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.csproj.GenerateResource.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.pdb
+C:\Users\Manuel\Desktop\DomenicoBini Virus\RSOD\RSOD\obj\Release\RSOD.csproj.AssemblyReference.cache
