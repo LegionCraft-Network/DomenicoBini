@@ -1,0 +1,5 @@
+C:\Users\Manuel\Desktop\DomenicoBini Virus\MbrOverwriter\MbrOverwriter\bin\Release\MbrOverwriter.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\MbrOverwriter\MbrOverwriter\bin\Release\MbrOverwriter.pdb
+C:\Users\Manuel\Desktop\DomenicoBini Virus\MbrOverwriter\MbrOverwriter\obj\Release\MbrOverwriter.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\DomenicoBini Virus\MbrOverwriter\MbrOverwriter\obj\Release\MbrOverwriter.exe
+C:\Users\Manuel\Desktop\DomenicoBini Virus\MbrOverwriter\MbrOverwriter\obj\Release\MbrOverwriter.pdb
